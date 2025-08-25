@@ -1,6 +1,7 @@
 package com.example.HMPS.nurseInformation;
 
-import jakarta.persistence.Entity;
+import com.example.HMPS.nurseMain.NurseMain;
+import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -8,4 +9,5 @@ import lombok.Setter;
 @Getter
 @Setter
 public class NurseInformation {
+
 }
